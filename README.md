@@ -1,7 +1,7 @@
 ### Hi there,Viewer 👋
 ![Twitter Follow](https://img.shields.io/twitter/follow/banerjees12?style=social)
 
-- 🔭 I’m currently working on messagit Application
+- 🔭 I’m currently working on BuckShop
 - 🌱 I’m currently learning Kernel Development🤔
 - 👯 I’m looking to collaborate on Android Projects
 - 🤔 I’m looking for help with Kernel Development and Ruby on Rails
