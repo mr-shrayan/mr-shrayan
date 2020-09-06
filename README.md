@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on BuckShop
 - 🌱 I’m currently learning Kernel Development🤔
 - 👯 I’m looking to collaborate on Android Projects
-- 🤔 I’m looking for help with Kernel Development and Ruby on Rails
+- 🤔 I’m looking for help with Kernel Development and Python
 - 💬 Ask me about Programming and Stuff
 - 😄 Pronouns: Love those❤
 - ⚡ Fun fact: My favourite cartoon is Oogy & the Cockroaches. 😁😁
