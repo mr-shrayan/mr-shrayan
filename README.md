@@ -2,7 +2,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/banerjees12?style=social)
 
 - 🔭 I’m currently working on BuckShop
-- 🌱 I’m currently learning Kernel Development🤔
+- 🌱 I’m currently learning Data Science🤔
 - 👯 I’m looking to collaborate on Android Projects
 - 🤔 I’m looking for help with Kernel Development and Python
 - 💬 Ask me about Programming and Stuff
