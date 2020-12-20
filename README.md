@@ -2,11 +2,11 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/banerjees12?style=social)
 
 - 🔭 I’m currently working on Python_Projects
-- 🌱 I’m currently learning Data Science🤔
-- 👯 I’m looking to collaborate on Android Projects
-- 🤔 I’m looking for help with Data Scieence & Statistics
-- 💬 Ask me about Programming and Stuff
-- 😄 Pronouns: Love those❤
-- ⚡ Fun fact: My favourite cartoon is Doraemon. 😁😁
+- 🌱 Trying to learn Data Science & Cyber Security. (Can't focous on one thing)🤔
+- 👯 I’m looking to collaborate on Python Projects & Android Software Development or debugging.
+- 🤔 Mind helping me with Learning Python. 
+- 💬 Ask me about Coding Softwares, Debugging and Computers.
+
+- ⚡ Fun fact: My favourite cartoon is Doraemon. 😁😁 Hope you like it.
 
 <img src = "https://github-readme-stats.vercel.app/api?username=mr-shrayan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
