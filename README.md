@@ -1,8 +1,8 @@
 ### Hi there,Viewer 👋
 ![Twitter Follow](https://img.shields.io/twitter/follow/banerjees12?style=social)
 
-- 🔭 I’m currently working on Python_Projects
-- 🌱 Trying to learn Data Science.
+- 🔭 I’m currently working on beam Repo
+- 🌱 Trying to learn Flutter Development
 - 👯 I’m looking to collaborate on Python Projects & Android Software Development or debugging.
 - 🤔 Mind helping me with Learning Python. 
 - 💬 Ask me about Coding Softwares, Debugging and Computers.
