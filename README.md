@@ -1,10 +1,10 @@
 ### Hi there,Viewer 👋
 ![Twitter Follow](https://img.shields.io/twitter/follow/banerjees12?style=social)
 
-- 🔭 I’m currently working on tello Repo
+- 🔭 I’m currently working on tello
 - 🌱 Trying to learn Flutter Development
 - 👯 I’m looking to collaborate on Python Projects & Android Software Development or debugging.
-- 🤔 Mind helping me with Learning Python. 
+- 🤔 Mind helping me with Learning Python? 
 - 💬 Ask me about Coding Softwares, Debugging and Computers.
 
 - ⚡ Fun fact: My favourite cartoon is Doraemon. 😁😁 Hope you like it.
