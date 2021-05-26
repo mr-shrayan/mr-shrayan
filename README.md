@@ -1,5 +1,4 @@
 ### Hi there,Viewer 👋
-![Twitter Follow](https://img.shields.io/twitter/follow/banerjees12?style=social)
 
 - 🔭 I’m currently working on tello
 - 🌱 Trying to learn Flutter Development
