@@ -1,9 +1,8 @@
 ### Hi there,Viewer 👋
 
 - 🔭 I’m currently working on tello
-- 🌱 Trying to learn Flutter Development
-- 👯 I’m looking to collaborate on Python Projects & Android Software Development or debugging.
-- 🤔 Mind helping me with Learning Python? 
+- 🌱 Trying to learn Data Science.
+- 👯 I’m looking to collaborate on Python Projects & R projects.
 - 💬 Ask me about Coding Softwares, Debugging and Computers.
 
 - ⚡ Fun fact: My favourite cartoon is Doraemon. 😁😁 Hope you like it.
