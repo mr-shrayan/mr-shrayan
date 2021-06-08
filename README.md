@@ -1,7 +1,7 @@
 ### Hi there,Viewer 👋
 
 - 🔭 I’m currently working on tello
-- 🌱 Trying to learn Data Science.
+- 🌱 Trying to learn German.
 - 👯 I’m looking to collaborate on Python Projects & R projects.
 - 💬 Ask me about Coding Softwares, Debugging and Computers.
 
