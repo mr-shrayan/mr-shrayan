@@ -1,9 +1,9 @@
 ### Hi there,Viewer 👋
 
-- 🔭 I’m currently working on tello
+- 🔭 I’m currently working on Data Science Projects
 - 🌱 Trying to learn German.
-- 👯 I’m looking to collaborate on Python Projects & R projects.
-- 💬 Ask me about Coding Softwares, Debugging and Computers.
+- 👯 I’m looking to collaborate on Python Projects & R projects regarding Data science and Data Analytics.
+- 💬 Ask me about Data, Softwares and Computers.
 
 - ⚡ Fun fact: My favourite cartoon is Doraemon & Sinchan. 😁😁 Hope you like it.
 
