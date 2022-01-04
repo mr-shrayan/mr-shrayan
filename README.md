@@ -1,7 +1,7 @@
 ### Hi there,Viewer 👋
 
-- 🔭 I’m currently working on Data Science Projects
-- 🌱 Trying to learn German.
+- 🔭 I’m currently working on Adult Census Age Predction
+- 🌱 Trying to learn Data Science.
 - 👯 I’m looking to collaborate on Python Projects & R projects regarding Data science and Data Analytics.
 - 💬 Ask me about Data, Softwares and Computers.
 
