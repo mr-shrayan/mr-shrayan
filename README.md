@@ -1,4 +1,4 @@
-### Hi there,Viewer 👋
+### Hi there, I am Shrayan. 👋
 
 - 🔭 I’m currently working on Adult Census Age Predction
 - 🌱 Trying to learn Data Science.
