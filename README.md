@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **Frontend Development of Data Science Project**
 
-- 👨‍💻 All of my projects are available [here in this GitHub profile](here in this GitHub profile)
+[//]: # "👨‍💻 All of my projects are available [here in this GitHub profile](here in this GitHub profile)"
 
 - 📝 I regularly write articles on [https://shrayan-in.medium.com](https://shrayan-in.medium.com)
 
