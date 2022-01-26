@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-shrayan&label=Profile%20views&color=77bb41&style=flat" alt="mr-shrayan" /> </p>
 
 
-- 🔭 I’m currently working on [Adult Census Income Prediction Project](WWW.NIL.CCC)
+- 🔭 I’m currently working on [Full Stack Data Science](https://github.com/mr-shrayan/FullStackDataScience)
 
 - 🌱 I’m currently learning **Microsoft Azure Database, MLOps, Ops Pipeline**
 
-- 👯 I’m looking to collaborate on **Adult Census Income Prediction Project**
+[//]: # "👯 I’m looking to collaborate on **Adult Census Income Prediction Project " 
 
 - 🤝 I’m looking for help with **Frontend Development of Data Science Project**
 
