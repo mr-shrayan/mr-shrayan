@@ -10,7 +10,7 @@
 
 [//]: # "👯 I’m looking to collaborate on **Adult Census Income Prediction Project " 
 
-- 🤝 I’m looking for help with **Frontend Development of Data Science Project**
+- 🤝 I’m looking for help with **Frontend Development of Data Science Project.**
 
 [//]: # "👨‍💻 All of my projects are available [here in this GitHub profile](here in this GitHub profile)"
 
