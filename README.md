@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shrayan</h1>
 <h3 align="center">A guy trying to figure out things</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-shrayan&label=Profile%20views&color=77bb41&style=flat" alt="mr-shrayan" /> </p>
-
 
 - 🔭 I’m currently working on [Full Stack Data Science](https://github.com/mr-shrayan/FullStackDataScience)
 
