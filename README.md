@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Full Stack Data Science](https://github.com/mr-shrayan/FullStackDataScience)
 
-- 🌱 I’m currently learning **Microsoft Azure Database, MLOps, Ops Pipeline**
+- 🌱 I’m currently learning **MongoDB, MLOps, Ops Pipeline**
 
 [//]: # "👯 I’m looking to collaborate on **Adult Census Income Prediction Project " 
 
