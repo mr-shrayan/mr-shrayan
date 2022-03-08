@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [https://shrayan-in.medium.com](https://shrayan-in.medium.com)
 
-- 💬 Ask me about **Data Science & Computers**
+- 💬 Ask me about **Data Science & Programming**
 
 - 📫 How to reach me **sbanerjee22@outlook.com**
 
