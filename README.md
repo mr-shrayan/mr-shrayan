@@ -2,7 +2,7 @@
 <h3 align="center">A guy trying to figure out things</h3>
 
 
-- 🔭 I’m currently working on [Full Stack Data Science](https://github.com/mr-shrayan/FullStackDataScience)
+- 🔭 I’m currently working on [Azure Fundamentals AZ-900](https://github.com/mr-shrayan/Azure-AZ-900-Study-Guide)
 
 - 🌱 I’m currently learning **MongoDB, MLOps, Ops Pipeline**
 
