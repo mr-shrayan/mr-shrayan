@@ -26,7 +26,7 @@
 <a href="https://kaggle.com/shrayanb21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shrayanb21" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/shrayanbandyopadhyay/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shrayanbandyopadhyay/" height="30" width="40" /></a>
 <a href="https://medium.com/@shrayan-in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shrayan-in" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@sbanerjee22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sbanerjee22" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/shrayan_bandyop1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sbanerjee22" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
