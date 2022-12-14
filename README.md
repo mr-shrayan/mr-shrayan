@@ -2,21 +2,21 @@
 <h3 align="center">A guy trying to figure out things</h3>
 
 
-- 🔭 I’m currently working on [Azure Fundamentals AZ-900](https://github.com/mr-shrayan/Azure-AZ-900-Study-Guide)
+- 🔭 I’m currently working on [CLF-C01](https://aws.amazon.com/certification/certified-cloud-practitioner/)
 
-- 🌱 I’m currently learning **MongoDB, MLOps, Ops Pipeline**
+- 🌱 I’m currently learning **MongoDB, DevOps, Ops Pipeline**
 
 [//]: # "👯 I’m looking to collaborate on **Adult Census Income Prediction Project " 
 
-- 🤝 I’m looking for help with **Frontend Development of Data Science Project.**
+- 🤝 I’m looking for help with **AWS**
 
 [//]: # "👨‍💻 All of my projects are available [here in this GitHub profile](here in this GitHub profile)"
 
 - 📝 I regularly write articles on [https://shrayan-in.medium.com](https://shrayan-in.medium.com)
 
-- 💬 Ask me about **Data Science & Programming**
+- 💬 Ask me about **Programming & Cloud Concepts**
 
-- 📫 How to reach me **sbanerjee22@outlook.com**
+- 📫 How to reach me **shrayan.bandyopadhyay2@gmail.com**
 
 - ⚡ Fun fact **I love watching cartoons such as Doraemon.**
 
